@@ -9,3 +9,9 @@
 
 # Library used
 - This solution is made using an open source Python Library - *pyshortners*
+
+# Prerequisites
+- Install the required Library on your Python IDE
+```
+pipinstall pyshortners
+```

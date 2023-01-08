@@ -1,4 +1,4 @@
-import pyshorteners
+import pyshorteners 
 
 url = input('Enter the url: ')
 
